@@ -18,7 +18,7 @@
     "ra-data-json-server": "^2.9.7",
     "ra-data-simple-rest": "^2.9.7",
     "react": "^16.8.4",
-    "react-admin": "^2.9.7",
+    "react-admin": "^4.7.0",
     "react-dom": "^16.8.4"
   }
 }
